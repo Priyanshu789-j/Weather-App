@@ -45,4 +45,8 @@ https://www.weatherapi.com/
 
 **Priyanshu Joshi**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Priyanshu789-j
+
+## 🌐 Live Demo
+
+https://priyanshu789-j.github.io/Weather-App/
