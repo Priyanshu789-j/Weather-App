@@ -21,7 +21,7 @@ A responsive weather application built using HTML, CSS, and JavaScript that fetc
 
 ## 📸 Screenshot
 
-![Weather App](images/Screenshot 2026-08-06 at 12.06.27 PM.png)
+![Weather App](images/screenshoot.png)
 
 ## 📂 Project Structure
 
